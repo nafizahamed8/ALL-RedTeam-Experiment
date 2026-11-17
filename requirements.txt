@@ -1,0 +1,5 @@
+torch
+torchvision
+matplotlib
+grad-cam
+numpy
